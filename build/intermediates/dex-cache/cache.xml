@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_34a581ab6013ee10a34ddded3d375dd8c0dd4dd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_050002d9735fe37126f248c9418ca759425a14c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_c23a8b38f49d8694e8647d3827898491fc78043c.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Divyanshu Grover\AndroidStudioProjects\backup projects\Newproject\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar" />
+    </item>
+
+</items>
